@@ -1,0 +1,6 @@
+F:\Documents\Visual Studio 2013\Projects\CodeChallenges\TroyFillerupChallenge01\TroyFillerupChallenge01\bin\Debug\TroyFillerupChallenge01.exe.config
+F:\Documents\Visual Studio 2013\Projects\CodeChallenges\TroyFillerupChallenge01\TroyFillerupChallenge01\bin\Debug\TroyFillerupChallenge01.exe
+F:\Documents\Visual Studio 2013\Projects\CodeChallenges\TroyFillerupChallenge01\TroyFillerupChallenge01\bin\Debug\TroyFillerupChallenge01.pdb
+F:\Documents\Visual Studio 2013\Projects\CodeChallenges\TroyFillerupChallenge01\TroyFillerupChallenge01\obj\Debug\TroyFillerupChallenge01.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2013\Projects\CodeChallenges\TroyFillerupChallenge01\TroyFillerupChallenge01\obj\Debug\TroyFillerupChallenge01.exe
+F:\Documents\Visual Studio 2013\Projects\CodeChallenges\TroyFillerupChallenge01\TroyFillerupChallenge01\obj\Debug\TroyFillerupChallenge01.pdb
