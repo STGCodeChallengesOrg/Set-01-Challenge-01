@@ -1,0 +1,12 @@
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\bin\Debug\CodeChallenge01_AlphanumericSorter.exe.config
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\bin\Debug\CodeChallenge01_AlphanumericSorter.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\bin\Debug\CodeChallenge01_AlphanumericSorter.pdb
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\obj\Debug\CodeChallenge01_AlphanumericSorter.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\obj\Debug\CodeChallenge01_AlphanumericSorter.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\obj\Debug\CodeChallenge01_AlphanumericSorter.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\bin\Debug\CodeChallenge01_AlphanumericSorter.exe.config
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\obj\Debug\CodeChallenge01_AlphanumericSorter.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\obj\Debug\CodeChallenge01_AlphanumericSorter.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\bin\Debug\CodeChallenge01_AlphanumericSorter.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\bin\Debug\CodeChallenge01_AlphanumericSorter.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge01_AlphanumericSorter\obj\Debug\CodeChallenge01_AlphanumericSorter.csprojResolveAssemblyReference.cache
